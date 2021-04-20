@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wtenvoorde
+- 👀 I’m interested in .NET and Flutter
+- 🌱 I’m currently learning Azure and 
